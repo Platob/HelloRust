@@ -1,0 +1,1 @@
+pub fn cast64(i: i32) -> i64 { i as i64 }
