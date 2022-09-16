@@ -1,0 +1,2 @@
+# HelloRust
+Discovering rust language
